@@ -3,11 +3,11 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Photography by Ziad Rahman Bhuiyan"
+title: "Mobile Photography by Ziad Rahman Bhuiyan"
 subtitle: "See the world through my eyes!"
 author:  "Ziad Rahman Bhuiyan"
 header:
- title: "Photography"
+ title: "Mobile Photography"
  subtitle: "by Ziad Rahman Bhuiyan"
 footer:
  name: "Hey there, I am Ziad Rahman Bhuiyan "
